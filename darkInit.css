@@ -2,9 +2,9 @@ body { background: #3C2F4C; color: #e6e6e6; }
 
 a { color: #949494; }
 
-a:link, a:visited { color: #949494; }
+a:link, a:visited { color: #B4B4B4; }
 
-a:hover, a:active, a:focus { color: #c7c7c7; }
+a:hover, a:active, a:focus { color: #F7F7F7; }
 
 hr { border-bottom: 1px solid #424242; border-top: 1px solid #222; }
 
@@ -1439,7 +1439,7 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 #archives_end_div_msg_lim h2, #end_display_msg_lim h2 { color: rgba(230, 230, 230, 0.8); }
 
-code { background-color: #EF0200; border: 1px solid #363636; color: #e6e6e6; }
+code { background-color: #CC7874; border: 1px solid #363636; color: #e6e6e6; }
 
 code a.app_preview_link { background: #363636; border: 1px solid #545454; color: #e6e6e6; }
 
